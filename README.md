@@ -8,3 +8,6 @@ The projects in datacamp
 ## Evaluate a Manufacturing Process -- SQL [link](https://github.com/cc59chong/datacamp-Projects/blob/main/Evaluate%20a%20Manufacturing%20Process-SQL.ipynb)
 * data:parts.csv
 > Applying SQL window functions and summary statistics to manufacturing data to identify if any adjustments were wrong for the company.
+## Exploring London's Travel Network -- SQL [link](https://github.com/cc59chong/datacamp-Projects/blob/main/Exploring%20London's%20Travel%20Network-SQL.ipynb)
+* tfl_journeys_final.csv
+> Using SQL to analyze a database containing information about Transport for London journeys over 12 years!
